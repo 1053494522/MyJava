@@ -4,8 +4,14 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        //test01
+//        Scanner sn = new Scanner(System.in);
+//        int number = sn.nextInt();
+//        System.out.println(Demo01.test01(number));
+
+        //test03
         Scanner sn = new Scanner(System.in);
-        int number = sn.nextInt();
-        System.out.println(Demo01.test01(number));
-        }
+        String a = sn.next();
+        System.out.println(Demo03.test03(a));
+      }
 }
