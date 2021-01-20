@@ -14,6 +14,9 @@ public class Main {
 //        String a = sn.next();
 //        System.out.println(Demo03.test03(a));
         //test05
-          Demo05.test05();
+//          Demo05.test05();
+        //test06
+          Demo06.test06();
+
       }
 }
