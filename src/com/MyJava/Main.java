@@ -10,8 +10,10 @@ public class Main {
 //        System.out.println(Demo01.test01(number));
 
         //test03
-        Scanner sn = new Scanner(System.in);
-        String a = sn.next();
-        System.out.println(Demo03.test03(a));
+//        Scanner sn = new Scanner(System.in);
+//        String a = sn.next();
+//        System.out.println(Demo03.test03(a));
+        //test05
+          Demo05.test05();
       }
 }
