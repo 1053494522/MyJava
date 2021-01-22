@@ -4,7 +4,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
-
+//日期格式化
 public class Demo10 {
     public static void main(String[] args) throws ParseException {
         Calendar calendar = Calendar.getInstance();
