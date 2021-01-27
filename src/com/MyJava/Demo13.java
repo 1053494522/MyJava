@@ -1,7 +1,7 @@
 package com.MyJava;
 
 import java.util.Scanner;
-
+//数据异常处理
 public class Demo13 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
