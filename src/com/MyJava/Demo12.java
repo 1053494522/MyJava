@@ -30,20 +30,6 @@ public class Demo12 {
                 System.out.println("您输入的内容，括号不配对");
             }
         }
-//        int a = 0;
-//        for (int i = 0; i < str.length(); i++) {
-//            char b = str.charAt(i);
-//            if (b == '(') {
-//                a++;
-//            } else if (b == ')') {
-//                a--;
-//            }
-//        }
-//        if (a == 0) {
-//            System.out.println("您输入的内容，括号完全配对");
-//        } else {
-//            System.out.println("您输入的内容，括号不配对");
-//        }
 
     }
 }
