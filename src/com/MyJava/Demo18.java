@@ -23,9 +23,9 @@ class test {
             }
         }
         if (flag) {
-            System.out.println("字符串" + str + ",是一个字符串");
+            System.out.println("字符串" + str + ",是一个回文数");
         } else {
-            System.out.println("字符串" + str + ",不是一个字符串");
+            System.out.println("字符串" + str + ",不是一个回文数");
         }
     }
 }
