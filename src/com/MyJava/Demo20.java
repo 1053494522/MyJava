@@ -1,13 +1,14 @@
 package com.MyJava;
 
 
+import java.io.IOException;
 import java.util.Scanner;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
 
 public class Demo20 {
     //判断单词在文中出现的次数
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws IOException {
         InputStreamReader inputStreamReader = new InputStreamReader(new FileInputStream("C:\\Users\\Administrator\\Desktop\\demo.txt"));
         char[] c = new char[1024];
         int l;
